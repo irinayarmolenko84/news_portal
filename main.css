@@ -8,3 +8,27 @@ header {
     background-color: #eaae45;
 }
 
+main {
+    width: 696px;
+    padding: 0 77px;
+}
+
+.section1 h1 {
+    font-family: monospace;
+    text-transform: uppercase;
+    line-height: 95px;
+    font-size: 75px;
+    color: rgb(234,175,70);
+    text-align: center;
+    margin: 0;
+}
+
+.section1 p {
+    font-size: 20px;
+    color: rgb(0,0,0);
+    font-family: "Arial";
+    font-weight: bold;
+    text-align: center;
+    line-height: 18px;
+    margin: 0 0 26px 0;
+}
