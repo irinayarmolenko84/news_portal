@@ -82,3 +82,8 @@ button {
     font-family: monospace;
     text-transform: uppercase;
 }
+
+button:hover {
+    color: white;
+    cursor: pointer;
+}
