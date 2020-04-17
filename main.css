@@ -118,11 +118,13 @@ h4 {
 .social-network img {
     width: 30px;
     height: 30px;
+
 }
 
 .social-network img:hover {
     cursor: pointer;
     background-color: black;
+    border-radius: 50%;
 }
 
 nav {
