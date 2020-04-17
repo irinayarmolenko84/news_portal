@@ -95,3 +95,13 @@ button:hover {
 .section2_news:nth-child(2n) {
     flex-direction: row-reverse;
 }
+
+.footer_section1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 850px;
+    height: 133px;
+    background-color: #eaae45;
+}
+
