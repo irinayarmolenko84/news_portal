@@ -50,6 +50,7 @@ h2 {
 .section2_news {
     display: flex;
     align-items: flex-end;
+    margin-bottom: 20px;
 }
 
 .section2_news img {
