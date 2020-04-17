@@ -91,3 +91,7 @@ button:hover {
     color: white;
     cursor: pointer;
 }
+
+.section2_news:nth-child(2n) {
+    flex-direction: row-reverse;
+}
